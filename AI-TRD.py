@@ -1,3 +1,4 @@
+# pylint: disable=invalid-name
 # ==============================================================================
 # AI-TRD v1.0 - SISTEMA DE TRIAGEM AUTOMATIZADA DE RETINOPATIA DIABÉTICA
 # ------------------------------------------------------------------------------
@@ -6,6 +7,8 @@
 # PERFIL: Cigano Calon | Bacharel em Direito | Acadêmico de Medicina - UNIFAN
 # DATA DE REGISTRO: 02/03/2026
 # ==============================================================================
+
+"""Entrypoint do sistema AI-TRD para triagem automatizada."""
 
 # Aqui entra a sua lógica de processamento de imagem e triagem...
 print("Algoritmo AI-TRD carregado com sucesso. Autor: Tiago S. Albuquerque")
