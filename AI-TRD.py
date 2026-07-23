@@ -7,6 +7,5 @@
 # DATA DE REGISTRO: 02/03/2026
 # ==============================================================================
 
-import pandas as pd
 # Aqui entra a sua lógica de processamento de imagem e triagem...
 print("Algoritmo AI-TRD carregado com sucesso. Autor: Tiago S. Albuquerque")
